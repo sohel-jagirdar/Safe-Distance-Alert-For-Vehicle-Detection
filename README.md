@@ -41,7 +41,15 @@ I Have Used Absulate Distance But You Can Covert Absulate Distance To your requi
   
   2) You Can Manipulate Output Accourding to Your Need
  
+ # Result :
+ 
+ ![Output Demo](https://user-images.githubusercontent.com/52422511/196130711-d2bbad46-b978-4ca1-8edb-ac3d0fec097a.png)
+
+
+ 
  
    # Note :
    
   1) It Lead to heavy use of CPU / GPU, RAM, For Prediction / Detection
+  
+  
